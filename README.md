@@ -1,5 +1,7 @@
 # A Better Calculator User Instruction
 
+<a href='https://abcalculator.github.io/portal/'>portal</a> | help | <a href='https://abcalculator.github.io/info/'>info</a>
+
 *Landscape reading for the sidebar
 
 ## 1 Description
