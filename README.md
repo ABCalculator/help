@@ -1,6 +1,6 @@
 # A Better Calculator User Instruction
 
-<a href='https://abcalculator.github.io/portal/'>portal</a> | help | <a href='https://abcalculator.github.io/info/'>info</a>
+<a href='https://abcalculator.github.io/portal/'>portal</a> | help | <a href='https://abcalculator.github.io/about/'>about</a>
 
 *Landscape reading for the sidebar
 
